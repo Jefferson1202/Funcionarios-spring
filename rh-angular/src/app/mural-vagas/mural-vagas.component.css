@@ -1,0 +1,31 @@
+.lista-vagas{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.lista-vagas .card{
+    margin: 5px 10px;
+    min-height: 539px;
+}
+
+.codigo-vaga{
+    text-align: center;
+    margin-top: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nome-vaga{
+    margin-top: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc-vaga{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.salario-vaga{
+    margin-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
