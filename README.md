@@ -11,4 +11,5 @@
 * Angular
 
 ##### Back end
-O back end dessa aplicação esta rodando na pasta RH. Gerando uma api no Spring e consumindo com o Angular.
+* O back end dessa aplicação esta rodando na pasta RH. 
+* Gerando uma api no Spring e consumindo com o Angular.
